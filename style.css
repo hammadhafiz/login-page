@@ -1,0 +1,65 @@
+body{
+    background-image: url(second.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+.main h2{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+
+.duty {
+    border: 2px solid white;
+    width: 300px;
+    height: 400px;
+    margin-left: 644px;
+    
+
+}
+
+.duty input {
+    margin-left: 39px;
+    margin-top: 25px;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+
+
+.duty span{
+    
+        margin-left: 100px;
+        font-size: 15px;
+            
+}
+
+
+
+.duty button {
+    margin-left: 93px;
+    font-size: 12px;
+    background-color:navy;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+
+.duty p{
+    margin-left: 47px;
+    color: white;
+}
+
